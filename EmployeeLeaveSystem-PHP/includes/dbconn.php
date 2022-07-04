@@ -1,7 +1,7 @@
 <?php 
-    define('DB_HOST','localhost');
-    define('DB_USER','root');
-    define('DB_PASS','');
+    define('DB_HOST','employeeleavedb.covgxrjelvph.us-east-1.rds.amazonaws.com');
+    define('DB_USER','admin');
+    define('DB_PASS','babbynani');
     define('DB_NAME','employeeleavedb');
     
     try
